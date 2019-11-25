@@ -1,0 +1,2 @@
+Q：Andriod Studio在运行时，会在MainActivity.Java文件出现错误。
+A：由于在原项目文件中没有包括软件图像的icon图，在运行过程中，MainActivity.Java的代码android:icon="@drawable/planeicon"无法定位到位置导致错误。解决方法是删除该行代码。

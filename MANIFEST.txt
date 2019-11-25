@@ -1,0 +1,17 @@
+1.app  代码相关文件
+2.gradle 安装包时的运行环境文件
+3.img 图片文件
+4.gitignore
+5.CREDITS.txt
+6.FAQ.txt
+7.HTORY.txt
+8.Install.txt
+9.LICENSE
+10.NEWS.txt
+11.README.md
+12.TAGS.txt
+13.build.gradle
+14.gradlew
+15.gradlew.bat
+16.settings.gradle
+17.MANIFEST.txt
